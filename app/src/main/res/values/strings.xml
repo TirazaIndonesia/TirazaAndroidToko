@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TirazaAndroid</string>
+    <string name="geser_kekanan_untuk_masuk_ke_aplikasi_tiraza">Geser Kekanan Untuk Masuk Ke Aplikasi Tiraza</string>
+    <string name="belanja_material_online">Belanja Material Online</string>
+    <string name="register">Register</string>
+    <string name="lebih_dari_500_orang_perhari_membeli_bahan_material_bangunan">Lebih Dari 500 Orang Perhari Membeli Bahan Material Bangunan</string>
+    <string name="login_atau_register">Login Atau Register</string>
+    <string name="login">Login</string>
+    <string name="form_registrasi_toko">Title</string>
+</resources>
